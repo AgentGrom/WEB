@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=E:\pythonProject\YandexLyceum\WEB\files\icon.ico E:\pythonProject\YandexLyceum\WEB\bot.py
